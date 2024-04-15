@@ -17,6 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="docker" width="70" height="70"/>&nbsp;
 </div>
 
-<h3>Путь Ивана долог и тернист, потому без хорошего настроения ему не обойтись</h3>
+<h3>Путь Ивана долог и тернист, потому без хорошего настроения ему не обойтись:</h3>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+
