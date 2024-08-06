@@ -8,8 +8,8 @@
 <div align="center">
     <h3>Постигает же Иван глубины backend-разработки и по сей день, расширяя свой стек и не зная пощады к самому себе:</h3>
     <h3>GO, Linux, Docker, Git, PostgreSQL, HTML, CSS...</h3>
+    <h3>Путь Ивана долог и тернист, потому без хорошего настроения ему не обойтись:</h3>
 </div>
-<h3>Путь Ивана долог и тернист, потому без хорошего настроения ему не обойтись:</h3>
 
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
