@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1>Про Ивана и backend на <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="70" height="70" align="center"/></h1>
-    <h3>Жил в большом каменном городе Москве добрый молодец, Иван.</h3> 
-    <h3>Набирался опыта и искал своё истинное предназначение Иван среди множества путей и направлений разработки.</h3>
+    <h3>Жил-был в большом каменном городе Москве добрый молодец, Иван.</h3> 
+    <h3>Набирался опыта и искал он своё истинное предназначение среди множества путей и направлений разработки.</h3>
     <h3>И было ему озарение, что для постижения Силы света и обретения Силы знания, должен Иван встать на путь обретения опыта в разработке на <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="30" height="30" align="center"/>.</h3>
 </div>
 
